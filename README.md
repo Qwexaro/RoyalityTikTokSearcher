@@ -1,5 +1,6 @@
 <h1>Format appsettings.json example:</h1>
 
+```JSON
 {
   "Telegram": {
     "BotToken": "YOUR_BOT_TOKEN"
@@ -9,3 +10,4 @@
     "Host": "tiktok-scraper7.p.rapidapi.com"
   }
 }
+```
